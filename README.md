@@ -8,3 +8,5 @@ WT_lab
 [LAB-02(Weather)](https://github.com/bashaboinakoushik/WT_lab/blob/main/lab_2.1.html)
 # Expenses Income Dashboard
 [LAB-02(Weather)](https://github.com/bashaboinakoushik/WT_lab/blob/main/lab_2.2.html)
+# student management syster
+[LAB_2(Student)](https://github.com/bashaboinakoushik/WT_lab/blob/main/Lab-2.2-1.html)
